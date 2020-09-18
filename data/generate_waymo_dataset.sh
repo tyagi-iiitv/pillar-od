@@ -1,1 +1,1 @@
-python generate_waymo_dataset.py --input_file_pattern='/home/yuewang/data/waymo/raw/validation/segment-*.tfrecord'  --output_filebase='/home/yuewang/data/waymo/processed/valid'
+python generate_waymo_dataset.py --input_file_pattern='/mnt/c/Users/anjul/Documents/LiDAR dataset/waymo/training_0000/segment-*.tfrecord'  --output_filebase='/mnt/c/Users/anjul/Documents/LiDAR dataset/pillar-od/data/processed'
