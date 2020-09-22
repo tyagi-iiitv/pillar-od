@@ -1,5 +1,8 @@
 # Pillar-based Object Detection for Autonomous Driving
 
+### Getting Started with the code
+Follow this medium article: https://towardsdatascience.com/pillar-based-3-d-point-cloud-object-detection-implementation-on-waymo-open-dataset-423e9a449ecb
+
 ### Prerequisite
 
 TensorFlow (https://www.tensorflow.org/install)
